@@ -1,0 +1,10 @@
+2025-04-07 17:25:39,961 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-07 17:25:40,424 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-07 17:25:40,453 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-07 17:25:40,454 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-07 17:25:40,461 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-07 17:25:40,461 - INFO - Split summary:
+2025-04-07 17:25:40,461 - INFO - Train set: 26930 records
+2025-04-07 17:25:40,461 - INFO - Validation set: 2993 records
+2025-04-07 17:25:40,461 - INFO - Test set (demand=-1): 16925 records
+2025-04-07 17:25:40,461 - INFO - Data Ingestion completed successfully
