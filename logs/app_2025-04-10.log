@@ -1,0 +1,140 @@
+2025-04-10 18:05:46,232 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:05:46,870 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:05:46,908 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:05:46,911 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:05:46,918 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:05:46,918 - INFO - Split summary:
+2025-04-10 18:05:46,918 - INFO - Train set: 26930 records
+2025-04-10 18:05:46,918 - INFO - Validation set: 2993 records
+2025-04-10 18:05:46,918 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:05:46,918 - INFO - Data Ingestion completed successfully
+2025-04-10 18:05:54,743 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:05:55,374 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:05:55,411 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:05:55,413 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:05:55,418 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:05:55,418 - INFO - Split summary:
+2025-04-10 18:05:55,418 - INFO - Train set: 26930 records
+2025-04-10 18:05:55,418 - INFO - Validation set: 2993 records
+2025-04-10 18:05:55,418 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:05:55,418 - INFO - Data Ingestion completed successfully
+2025-04-10 18:08:04,364 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:08:05,089 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:08:05,120 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:08:05,121 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:08:05,127 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:08:05,127 - INFO - Split summary:
+2025-04-10 18:08:05,127 - INFO - Train set: 26930 records
+2025-04-10 18:08:05,127 - INFO - Validation set: 2993 records
+2025-04-10 18:08:05,128 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:08:05,128 - INFO - Data Ingestion completed successfully
+2025-04-10 18:08:32,215 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:08:33,158 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:08:33,194 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:08:33,196 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:08:33,202 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:08:33,202 - INFO - Split summary:
+2025-04-10 18:08:33,202 - INFO - Train set: 26930 records
+2025-04-10 18:08:33,202 - INFO - Validation set: 2993 records
+2025-04-10 18:08:33,202 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:08:33,202 - INFO - Data Ingestion completed successfully
+2025-04-10 18:10:21,566 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:10:24,150 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:10:24,188 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:10:24,189 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:10:24,195 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:10:24,195 - INFO - Split summary:
+2025-04-10 18:10:24,195 - INFO - Train set: 26930 records
+2025-04-10 18:10:24,195 - INFO - Validation set: 2993 records
+2025-04-10 18:10:24,195 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:10:24,195 - INFO - Data Ingestion completed successfully
+2025-04-10 18:10:24,197 - INFO - Data preprocessing started
+2025-04-10 18:10:53,633 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:10:54,250 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:10:54,277 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:10:54,279 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:10:54,286 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:10:54,286 - INFO - Split summary:
+2025-04-10 18:10:54,287 - INFO - Train set: 26930 records
+2025-04-10 18:10:54,287 - INFO - Validation set: 2993 records
+2025-04-10 18:10:54,287 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:10:54,287 - INFO - Data Ingestion completed successfully
+2025-04-10 18:10:54,289 - INFO - Data preprocessing started
+2025-04-10 18:13:26,995 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:13:28,014 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:13:28,053 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:13:28,055 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:13:28,061 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:13:28,061 - INFO - Split summary:
+2025-04-10 18:13:28,061 - INFO - Train set: 26930 records
+2025-04-10 18:13:28,062 - INFO - Validation set: 2993 records
+2025-04-10 18:13:28,062 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:13:28,062 - INFO - Data Ingestion completed successfully
+2025-04-10 18:13:28,064 - INFO - Data preprocessing started
+2025-04-10 18:19:53,629 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:20:01,605 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:20:01,642 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:20:01,644 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:20:01,650 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:20:01,650 - INFO - Split summary:
+2025-04-10 18:20:01,650 - INFO - Train set: 26930 records
+2025-04-10 18:20:01,650 - INFO - Validation set: 2993 records
+2025-04-10 18:20:01,650 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:20:01,650 - INFO - Data Ingestion completed successfully
+2025-04-10 18:20:01,653 - INFO - Data preprocessing started
+2025-04-10 18:21:44,484 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:21:50,748 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:21:50,785 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:21:50,787 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:21:50,794 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:21:50,794 - INFO - Split summary:
+2025-04-10 18:21:50,794 - INFO - Train set: 26930 records
+2025-04-10 18:21:50,794 - INFO - Validation set: 2993 records
+2025-04-10 18:21:50,794 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:21:50,794 - INFO - Data Ingestion completed successfully
+2025-04-10 18:21:50,796 - INFO - Data preprocessing started
+2025-04-10 18:23:16,081 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:23:17,125 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:23:17,163 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:23:17,165 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:23:17,171 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:23:17,171 - INFO - Split summary:
+2025-04-10 18:23:17,171 - INFO - Train set: 26930 records
+2025-04-10 18:23:17,171 - INFO - Validation set: 2993 records
+2025-04-10 18:23:17,171 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:23:17,171 - INFO - Data Ingestion completed successfully
+2025-04-10 18:23:17,173 - INFO - Data preprocessing started
+2025-04-10 18:23:56,110 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:23:58,314 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:23:58,353 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:23:58,355 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:23:58,361 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:23:58,361 - INFO - Split summary:
+2025-04-10 18:23:58,361 - INFO - Train set: 26930 records
+2025-04-10 18:23:58,361 - INFO - Validation set: 2993 records
+2025-04-10 18:23:58,361 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:23:58,361 - INFO - Data Ingestion completed successfully
+2025-04-10 18:23:58,363 - INFO - Data preprocessing started
+2025-04-10 18:25:48,563 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:25:49,140 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:25:49,171 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:25:49,173 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:25:49,179 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:25:49,179 - INFO - Split summary:
+2025-04-10 18:25:49,179 - INFO - Train set: 26930 records
+2025-04-10 18:25:49,179 - INFO - Validation set: 2993 records
+2025-04-10 18:25:49,179 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:25:49,179 - INFO - Data Ingestion completed successfully
+2025-04-10 18:25:49,181 - INFO - Data preprocessing started
+2025-04-10 18:26:28,019 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-10 18:26:33,064 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-10 18:26:33,103 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-10 18:26:33,105 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-10 18:26:33,112 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-10 18:26:33,112 - INFO - Split summary:
+2025-04-10 18:26:33,112 - INFO - Train set: 26930 records
+2025-04-10 18:26:33,112 - INFO - Validation set: 2993 records
+2025-04-10 18:26:33,112 - INFO - Test set (demand=-1): 16925 records
+2025-04-10 18:26:33,112 - INFO - Data Ingestion completed successfully
+2025-04-10 18:26:33,114 - INFO - Data preprocessing started
+2025-04-10 18:26:33,184 - INFO - Data preprocessing completed successfully

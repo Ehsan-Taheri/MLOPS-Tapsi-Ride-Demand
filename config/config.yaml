@@ -4,4 +4,6 @@ data_ingestion:
  storage_location: "https://tap30.s3.eu-north-1.amazonaws.com"
  train_ratio: 0.9
  artifact_dir: "artifact"
+data_processing:
+  shift: 18
  
