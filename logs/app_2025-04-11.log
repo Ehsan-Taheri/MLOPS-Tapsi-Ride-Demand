@@ -1,0 +1,93 @@
+2025-04-11 16:36:44,570 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-11 16:36:45,053 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-11 16:36:45,083 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-11 16:36:45,084 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-11 16:36:45,091 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-11 16:36:45,091 - INFO - Split summary:
+2025-04-11 16:36:45,091 - INFO - Train set: 26930 records
+2025-04-11 16:36:45,091 - INFO - Validation set: 2993 records
+2025-04-11 16:36:45,091 - INFO - Test set (demand=-1): 16925 records
+2025-04-11 16:36:45,091 - INFO - Data Ingestion completed successfully
+2025-04-11 16:36:45,093 - INFO - Data preprocessing started
+2025-04-11 16:36:45,157 - INFO - Data preprocessing completed successfully
+2025-04-11 16:36:53,623 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-11 16:36:53,995 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-11 16:36:54,027 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-11 16:36:54,029 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-11 16:36:54,035 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-11 16:36:54,035 - INFO - Split summary:
+2025-04-11 16:36:54,035 - INFO - Train set: 26930 records
+2025-04-11 16:36:54,035 - INFO - Validation set: 2993 records
+2025-04-11 16:36:54,035 - INFO - Test set (demand=-1): 16925 records
+2025-04-11 16:36:54,035 - INFO - Data Ingestion completed successfully
+2025-04-11 16:36:54,038 - INFO - Data preprocessing started
+2025-04-11 16:36:54,093 - INFO - Data preprocessing completed successfully
+2025-04-11 16:37:37,443 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-11 16:37:38,649 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-11 16:37:38,687 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-11 16:37:38,689 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-11 16:37:38,695 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-11 16:37:38,695 - INFO - Split summary:
+2025-04-11 16:37:38,695 - INFO - Train set: 26930 records
+2025-04-11 16:37:38,695 - INFO - Validation set: 2993 records
+2025-04-11 16:37:38,695 - INFO - Test set (demand=-1): 16925 records
+2025-04-11 16:37:38,695 - INFO - Data Ingestion completed successfully
+2025-04-11 16:37:38,698 - INFO - Data preprocessing started
+2025-04-11 16:37:38,764 - INFO - Data preprocessing completed successfully
+2025-04-11 16:38:57,584 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-11 16:38:58,006 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-11 16:38:58,034 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-11 16:38:58,036 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-11 16:38:58,043 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-11 16:38:58,043 - INFO - Split summary:
+2025-04-11 16:38:58,043 - INFO - Train set: 26930 records
+2025-04-11 16:38:58,043 - INFO - Validation set: 2993 records
+2025-04-11 16:38:58,043 - INFO - Test set (demand=-1): 16925 records
+2025-04-11 16:38:58,043 - INFO - Data Ingestion completed successfully
+2025-04-11 16:38:58,045 - INFO - Data preprocessing started
+2025-04-11 16:38:58,107 - INFO - Data preprocessing completed successfully
+2025-04-11 16:39:31,142 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-11 16:39:32,207 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-11 16:39:32,244 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-11 16:39:32,246 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-11 16:39:32,251 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-11 16:39:32,251 - INFO - Split summary:
+2025-04-11 16:39:32,252 - INFO - Train set: 26930 records
+2025-04-11 16:39:32,252 - INFO - Validation set: 2993 records
+2025-04-11 16:39:32,252 - INFO - Test set (demand=-1): 16925 records
+2025-04-11 16:39:32,252 - INFO - Data Ingestion completed successfully
+2025-04-11 16:39:32,254 - INFO - Data preprocessing started
+2025-04-11 16:39:32,321 - INFO - Data preprocessing completed successfully
+2025-04-11 16:39:32,322 - INFO - Model training started
+2025-04-11 16:39:51,860 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-11 16:39:52,231 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-11 16:39:52,259 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-11 16:39:52,260 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-11 16:39:52,267 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-11 16:39:52,267 - INFO - Split summary:
+2025-04-11 16:39:52,267 - INFO - Train set: 26930 records
+2025-04-11 16:39:52,267 - INFO - Validation set: 2993 records
+2025-04-11 16:39:52,267 - INFO - Test set (demand=-1): 16925 records
+2025-04-11 16:39:52,267 - INFO - Data Ingestion completed successfully
+2025-04-11 16:39:52,269 - INFO - Data preprocessing started
+2025-04-11 16:39:52,330 - INFO - Data preprocessing completed successfully
+2025-04-11 16:39:52,331 - INFO - Model training started
+2025-04-11 16:39:53,366 - INFO - Out-of-bag score: 76.22061346485391
+2025-04-11 16:39:53,366 - INFO - Validation RMSE: 80.1605125393086
+2025-04-11 16:39:53,366 - INFO - Model training completed successfully
+2025-04-11 16:40:47,042 - INFO - Data Ingestion started for https://tap30.s3.eu-north-1.amazonaws.com/data.txt
+2025-04-11 16:40:47,426 - INFO - Data format: 732 periods, 8x8 grid
+2025-04-11 16:40:47,457 - INFO - Saved train data with 26930 records to artifact/raw/train.csv
+2025-04-11 16:40:47,458 - INFO - Saved validation data with 2993 records to artifact/raw/validation.csv
+2025-04-11 16:40:47,465 - INFO - Saved test data with 16925 records to artifact/raw/test.csv
+2025-04-11 16:40:47,465 - INFO - Split summary:
+2025-04-11 16:40:47,465 - INFO - Train set: 26930 records
+2025-04-11 16:40:47,465 - INFO - Validation set: 2993 records
+2025-04-11 16:40:47,465 - INFO - Test set (demand=-1): 16925 records
+2025-04-11 16:40:47,465 - INFO - Data Ingestion completed successfully
+2025-04-11 16:40:47,467 - INFO - Data preprocessing started
+2025-04-11 16:40:47,530 - INFO - Data preprocessing completed successfully
+2025-04-11 16:40:47,531 - INFO - Model training started
+2025-04-11 16:40:52,950 - INFO - Out-of-bag score: 73.33029678254307
+2025-04-11 16:40:52,950 - INFO - Validation RMSE: 63.402119566016204
+2025-04-11 16:40:52,950 - INFO - Model training completed successfully
